@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "《货币，如何印出来？》"
+title: "FTChinese：《货币，如何印出来？》"
 date: 2024-10-23
 description: "阅读FTChinese文章《货币，如何印出来？》的笔记与感想。"
 tag: 文章笔记
