@@ -11,6 +11,9 @@ url: "http://chrisxman.github.io"
 # 博客是否自动生成目录，false为不生成
 enableToc: true
 
+# 支持latex
+markdown: kramdown
+
 # Social
 social:
     github: chrisxman

@@ -25,5 +25,8 @@
 
   <meta name="google-site-verification" content="1-1ZlHoRvM0T2FqPbW2S-qLgYXN6rsn52kErlMPd_gw" />
 
+  {% unless page.no_latex %}
+    {% include latex.html %}
+  {% endunless %}
 
 </head>
