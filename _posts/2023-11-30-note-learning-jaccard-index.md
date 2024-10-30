@@ -12,10 +12,10 @@ Jaccard Index可以衡量，它是NLP中用于计算相似度或样本距离时�
 
 #### 概念
 计算交集（Intersect）在并集（Union）中占的比例
-![jaccard_index.png](/images/2023/jaccard_index.png)
+![jaccard_index.png](/images/posts/2023/jaccard_index.png)
 
 #### 公式
-$$J(A,B) = \frac{|A \cap B|}{|A \cup B|} = \frac{|A \cap B|}{|A| +|B| - |A \cap B|}$$
+$J(A,B) = \frac{|A \cap B|}{|A \cup B|} = \frac{|A \cap B|}{|A| +|B| - |A \cap B|}$
 其中，分子是集合的交集、分母是并集；值介于0~1，等于1表示两者完全重合
 
 #### 例子
@@ -32,5 +32,5 @@ $$J(A,B) = \frac{|A \cap B|}{|A \cup B|} = \frac{|A \cap B|}{|A| +|B| - |A \cap 
 	- $J(s_1, s_2) = \frac{1}{3} = 0.3333$
 
 #### Jaccard Distiance
-计算两个样本或集合的距离，定义为： $1 - \text{Jaccard Index}$，即： 
-$$d_J(A,B) = 1 - J(A,B) = \frac{|A \cup B| - |A \cap B|}{|A\cup B|}$$
+计算两个样本或集合的距离，定义为： $1 - \text{Jaccard Index}$，即：
+$d_J(A,B) = 1 - J(A,B) = \frac{|A \cup B| - |A \cap B|}{|A\cup B|}$
