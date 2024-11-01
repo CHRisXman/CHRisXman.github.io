@@ -25,7 +25,7 @@ category: 机器学习
 - 一个变量所有可能取值的信息量，组成该变量的熵（不确定性）：$$ H(X) = \Sigma p(x)log{1\over p(x)}$$
 
 ### 2. 互信息
-- 香农对互信息的定义：$ $ MI(X, Y) = H(X) + H(Y) - H(X, Y) $ $
+- 香农对互信息的定义：$MI(X, Y) = H(X) + H(Y) - H(X, Y)$
 
 ### 3. WOE
 - WOE（Weight of Evidence）是一种用于特征变换的指标，常与IV值一起使用
@@ -42,7 +42,7 @@ category: 机器学习
 ### 4. IV
 - IV，即信息价值（Information Value），也称信息量
 - 用来**衡量变量预测能力**的，IV值越大，表示该变量的预测能力越强
-- 计算方式：$ $ IV=\Sigma^n_{i=1} (p_{y_i} - p_{n_i}) \times WOE_i $ $
+- 计算方式：$IV=\Sigma^n_{i=1} (p_{y_i} - p_{n_i}) \times WOE_i$
 	+ $p_{y_i}$ 是第 $i$ 组中，正样本 占 所有正样本 的比例（可以理解为正样本召回率）
 	+ $p_{n_i}$ 是第 $i$ 组中，负样本 占 所有负样本 的比例（可以理解为负样本召回率）
 	+ $WOE_i$ 是第 $i$ 组的 WOE 值
