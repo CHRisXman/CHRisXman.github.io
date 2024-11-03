@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jaccard Index"
+title: "ML指标：Jaccard Index"
 date: 2023-11-30
 description: "Jaccard Index的理解"
 tag: 学习笔记
