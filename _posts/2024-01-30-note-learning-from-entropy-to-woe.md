@@ -3,7 +3,7 @@ layout: post
 title: "ML评估指标：从熵、互信息到WOE与IV"
 date: 2024-01-30
 description: "从熵、互信息到WOE与IV"
-tag: 学习笔记
+tag: Data Science
 category: 机器学习
 ---
 

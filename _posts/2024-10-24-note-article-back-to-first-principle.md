@@ -3,7 +3,7 @@ layout: post
 title: "FTChinese：《回到第一性：刺激、救济与福利》"
 date: 2024-10-24
 description: "20241024 《回到第一性：刺激、救济与福利》"
-tag: 文章笔记
+tag: 文章
 category: 财经
 ---
 

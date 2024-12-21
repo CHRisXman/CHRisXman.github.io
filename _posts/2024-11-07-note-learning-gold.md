@@ -3,7 +3,7 @@ layout: post
 title: "财经学习：黄金"
 date: 2024-11-09
 description: "财经学习：黄金"
-tag: 学习笔记
+tag: 财经学习
 category: 财经
 ---
 

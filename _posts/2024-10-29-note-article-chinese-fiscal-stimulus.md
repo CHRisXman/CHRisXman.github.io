@@ -3,7 +3,7 @@ layout: post
 title: "FTChinese：《中国式财政刺激：市场期待与政策图景》"
 date: 2024-10-29
 description: "20241029 《中国式财政刺激：市场期待与政策图景》"
-tag: 文章笔记
+tag: 文章
 category: 财经
 ---
 

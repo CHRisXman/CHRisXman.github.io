@@ -3,7 +3,7 @@ layout: post
 title: "读书笔记: 《金融怪杰》"
 date: 2024-10-30
 description: "读书笔记: 《金融怪杰》"
-tag: 读书笔记
+tag: 读书
 category: 财经
 ---
 

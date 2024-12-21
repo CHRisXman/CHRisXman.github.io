@@ -3,7 +3,7 @@ layout: post
 title: "读书笔记: 布兰查德《宏观经济学》"
 date: 2024-10-30
 description: "读书笔记: 布兰查德《宏观经济学》"
-tag: 读书笔记
+tag: 读书
 category: 财经
 ---
 

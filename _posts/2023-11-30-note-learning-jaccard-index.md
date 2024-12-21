@@ -3,7 +3,7 @@ layout: post
 title: "ML指标：Jaccard Index"
 date: 2023-11-30
 description: "Jaccard Index的理解"
-tag: 学习笔记
+tag: Data Science
 category: 机器学习
 ---
 

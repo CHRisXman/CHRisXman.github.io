@@ -3,7 +3,7 @@ layout: post
 title: "ML：池化与卷积"
 date: 2024-11-13
 description: "池化与卷积"
-tag: 学习笔记
+tag: Data Science
 category: 机器学习
 ---
 
